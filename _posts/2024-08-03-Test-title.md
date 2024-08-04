@@ -1,6 +1,6 @@
 ---
 title: "Test title"
-date: 2024-08-0-3
+date: 2024-08-03
 ---
 
 # This is a test blog post header
