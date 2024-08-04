@@ -6,6 +6,8 @@ texture:
   tagline: Ergothérapeute
   date_format: "%b %-d, %Y"
 
+  style: black
+
   social_links:
     #twitter: thelehhman
     #github:  thelehhman
